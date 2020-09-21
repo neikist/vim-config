@@ -4,3 +4,9 @@
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "bundle/nerdtree-git"]
+	path = bundle/nerdtree-git
+	url = https://github.com/xuyuanp/nerdtree-git-plugin
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
