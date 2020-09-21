@@ -1,3 +1,5 @@
+execute pathogen#infect()
+
 " WSL part
 map <silent> p :r !powershell.exe -Command Get-Clipboard<CR>
 
@@ -18,3 +20,4 @@ end
 :set tabstop=2
 :set shiftwidth=2
 :set expandtab
+
