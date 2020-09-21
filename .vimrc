@@ -1,4 +1,5 @@
 execute pathogen#infect()
+colorscheme dracula
 
 " WSL part
 map <silent> p :r !powershell.exe -Command Get-Clipboard<CR>
