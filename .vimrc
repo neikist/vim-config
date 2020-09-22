@@ -15,7 +15,7 @@ end
 
 :set clipboard=unnamedplus
 :set autoindent
-:set relativenumber
+:set number
 
 :set foldmethod=syntax
 :set tabstop=2
